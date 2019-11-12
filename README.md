@@ -18,6 +18,7 @@ Ez a 100% FOSS (Free and Open Source Software), reklámmentes verziója a Szivac
 * sötét téma és személyre szabható színek
 * értesítések
 * grafikonok
+* átlag számítás
 
 ## Letöltés
 #### Forráskódból:
